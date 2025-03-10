@@ -36,7 +36,7 @@ I'm a passionate developer with experience in building scalable web and mobile a
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielfrrokaj&theme=dark" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfrrokaj&layout=compact&theme=dark" alt="Top Languages" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielfrrokaj&theme=dark" alt="GitHub Streak" /> </div>  </div>
   
 
 ## 🔗 Connect with Me
