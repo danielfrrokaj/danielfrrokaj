@@ -10,7 +10,7 @@ I'm a passionate developer with experience in building scalable web and mobile a
 ## 🛠️ Tech Stack
 
 ### Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c++,html,css" alt="Programming Languages" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" alt="Programming Languages" /> </p>
 
 ### Frameworks & Libraries
 <p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,swift,react,nodejs,django" alt="Frameworks & Libraries" /> </p>  
