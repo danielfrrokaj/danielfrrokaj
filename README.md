@@ -24,7 +24,7 @@ I'm a passionate developer with experience in building scalable web and mobile a
 
 ## 🔭 Current Projects
 
-- Building a Kotling App "Smart Room Booking System"
+- Building a Mobile App with Kotlin "Smart Room Booking System"
 - Developing a chrome extension "Focus - Timer and Task Manager"
 - Working on a LMS for universities in Albania
 
