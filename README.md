@@ -8,7 +8,7 @@ I’m interested in translating complex requirements into reliable software and 
 - **Languages:** Python, JavaScript, TypeScript, Dart, Swift, Kotlin
 - **Web:** React, Node.js, Django
 - **Mobile:** Flutter, Swift, Kotlin
-- **Data & Cloud:** Supabase, Firebase, MongoDB, Google Cloud, AWS
+- **Data & Cloud:** Supabase, Firebase, MongoDB, Google Cloud, AWS, PostgreSQL
 - **Tools:** Git, Docker, Linux
 
 ## Interests
