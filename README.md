@@ -1,8 +1,5 @@
 # Daniel Frrokaj
 
-**CTO at Bluesqaure AI | Software Developer**
-
-I build web and mobile applications, with interests in artificial intelligence, cloud infrastructure, and software architecture. As CTO at Bluesqaure AI, I focus on technical direction and product development.
 
 I’m interested in translating complex requirements into reliable software and exploring how AI can improve everyday tools and workflows.
 
